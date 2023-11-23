@@ -224,6 +224,9 @@ input, select, textarea {
 
 	h2 {
 		font-size: 1.75em;
+		border-left: solid 4px white;
+		margin: 0 0 2em 0;
+		padding: 0.5em 0 0.5em 1em;
 	}
 
 	h3 {
@@ -285,7 +288,7 @@ input, select, textarea {
 	blockquote {
 		border-left: solid 4px rgba(255, 255, 255, 0.15);
 		font-style: italic;
-		margin: 0 0 2em 0;
+		margin: 0 0 2em 2em;
 		padding: 0.5em 0 0.5em 2em;
 	}
 
