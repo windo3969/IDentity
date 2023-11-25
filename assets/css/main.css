@@ -172,7 +172,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #ffffff;
+			color: rgb(182, 182, 182);
 		}
 
 	strong, b {
@@ -1885,7 +1885,7 @@ input, select, textarea {
 			-webkit-transition: opacity 0.2s ease, -webkit-transform 0.2s ease;
 			-ms-transition: opacity 0.2s ease, -ms-transform 0.2s ease;
 			transition: opacity 0.2s ease, transform 0.2s ease;
-			background: #ffffff;
+			background: #000000;
 			border-radius: 3em;
 			content: '';
 			height: 100%;
@@ -1984,7 +1984,7 @@ input, select, textarea {
 			input[type="button"]:hover:active,
 			button:hover:active,
 			.button:hover:active {
-				border-color: #ffffff !important;
+				border-color: #eeeeee !important;
 			}
 
 				input[type="submit"]:hover:active:after,
@@ -3279,7 +3279,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3-alt {
-			background-color: #90c29b;
+			background-color: #afdbb9;
 		}
 
 		.wrapper.fullscreen {
