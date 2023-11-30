@@ -5,6 +5,18 @@
 /*font-family: 'Playball', cursive;*/
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&family=Playball&family=Roboto:wght@900&display=swap');
 /*font-family: 'Roboto', sans-serif;*/
+@font-face {
+    font-family: 'Hiatus';
+    src:url('../../fonts/Hiatus.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Baguette';
+    src:url('../../fonts/Baguette.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Rustico';
+    src:url('../../fonts/Rustico-Regular.otf') format('opentype');
+}
 
 /*
 	Hyperspace by HTML5 UP
@@ -233,6 +245,7 @@ input, select, textarea {
 		font-size: 2em;
 		color:black;
 		font-family: 'Roboto';
+		text-align: center;
 	}
 
 	h3 {
