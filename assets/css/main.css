@@ -10,12 +10,12 @@
     src:url('../../fonts/Hiatus.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'Baguette';
-    src:url('../../fonts/Baguette.ttf') format('truetype');
+    font-family: 'GmarketSans';
+    src:url('../../fonts/GmarketSansTTFLight.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'Rustico';
-    src:url('../../fonts/Rustico-Regular.otf') format('opentype');
+    font-family: 'GmarketSansmedium';
+    src:url('../../fonts/GmarketSansTTFMedium.ttf') format('truetype');
 }
 
 /*
@@ -143,7 +143,7 @@ input, select, textarea {
 		/* font color */
 	body, input, select, textarea {
 		color: black;
-		font-family: 'Nanum Myeongjo', serif, Arial;
+		font-family: 'GmarketSans', serif, Arial;
 		font-size: 13pt;
 		font-weight: normal;
 		line-height: 1.75;
@@ -204,6 +204,7 @@ input, select, textarea {
 	/* font color */
 	h1, h2, h3, h4, h5, h6 {
 		color: black;
+		font-family: 'GmarketSansmedium';
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
@@ -243,7 +244,7 @@ input, select, textarea {
 			}
 
 	h2 {
-		font-size: 2em;
+		font-size: 2.2em;
 		color:black;
 		font-family: 'Roboto';
 		text-align: center;
@@ -273,11 +274,11 @@ input, select, textarea {
 
 		h2 {
 			text-align: center;
-			font-size: 2em;
+			font-size: 2.4em;
 		}
 
 		h3 {
-			font-size: 1em;
+			font-size: 1.1em;
 		}
 
 		h4 {
